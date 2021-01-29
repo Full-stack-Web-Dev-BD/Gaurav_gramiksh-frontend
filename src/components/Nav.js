@@ -5,12 +5,12 @@ const Nav = () => {
         <div className="nav">
             <div className="container">
                 <div className="row">
-                    <div className="col-md-4">
+                    <div className="col-md-4 col-sm-12">
                         <div className="logo-side">
                             <img src='/images/Logo.png' />
                         </div>
                     </div>
-                    <div className="col-md-6 menu">
+                    <div className="col-md-6 col-sm-12 menu">
                         <ul>
                             <li> <a href="#"> ABOUT</a></li>
                             <li> <a href="#"> RESOURCES</a></li>
@@ -18,7 +18,7 @@ const Nav = () => {
                             <li> <a href="#"> CONTACT</a></li>
                         </ul>
                     </div>
-                    <div className="col-md-2">
+                    <div className="col-md-2 col-sm-12">
                         <div className="right-images">
                             <img className="first-img" src='/images/icon-1.png' />
                             <img src='/images/icon-2.png' />
