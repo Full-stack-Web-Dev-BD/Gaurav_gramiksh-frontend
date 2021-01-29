@@ -1,0 +1,44 @@
+.nav {
+    font-family: "Roboto", sans-serif;
+    padding: 40px 0;
+    background-color: #525860;
+    .logo-side {
+        position: relative;
+        img {
+            position: absolute;
+            width: 300px;
+            left: 0;
+        }
+    }
+    .menu {
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            li {
+                float: left;
+                font-size: 22px;
+                font-weight: 600;
+                margin: 0 24px;
+                line-height: 42px;
+                a {
+                    text-decoration: none;
+                    color: white;
+                }
+            }
+        }
+    }
+    .right-images {
+        text-align: right;
+        img {
+            margin: 0 10px;
+            width: 45px;
+        }
+        .first-img {
+            width: 20px;
+        }
+    }
+    // .right-images:first-child {
+    //     width: 20px;
+    // }
+}
