@@ -13,7 +13,7 @@ const IndexPage = () => {
                         <button className="btn ">GET STARTED</button>
                     </div>
                     <div className="row">
-                        <div className="col-md-6 col-sm-12 tag-buttons">
+                        <div className="col-md-6 col-md-12 col-sm-12 tag-buttons">
                             <div>
                                 <button className="btn">DISCUSSION FORUMS </button>
                                 <button className="btn">RESOURCE SHARING</button>
@@ -52,7 +52,7 @@ const IndexPage = () => {
                         <div className="col-md-6 col-sm-12">
                             <div className="stronger-details">
                                 <h1>MAKING <span>STRONGER </span>TEACHER</h1>
-                                <div className="pr-80">
+                                <div className="pr-8">
                                     <p>School Tribe empowers 70 million teacher community by voicing their ideas through a community platform for peer-topeer learning. School Tribe’s foundation is based on growth,community, and sharing.</p>
                                 </div>
                                 <button className="btn"> CHANGE THE STATUS QUO</button>
@@ -121,7 +121,7 @@ const IndexPage = () => {
             <div className="subscribe-area">
                 <div className="subscribe-contant">
                     <div className="row">
-                        <div className=" col-md-7 col-sm-12 subscribe-left">
+                        <div className=" col-xl-7 col-md-12   col-sm-12 subscribe-left">
                             <div className="subscribe-left-content">
                                 <div className="col-md-10  offset-md-1">
                                     <img src="/images/logo-full-white.png" />
@@ -163,7 +163,7 @@ const IndexPage = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className=" col-md-5 col-sm-12 join">
+                        <div className=" col-xl-5 col-md-12   col-sm-12 join">
                             <div className="join-content">
                                 <div className="container text-center">
                                     <h1>SUBSCRIBE</h1>
@@ -186,8 +186,7 @@ const IndexPage = () => {
                 <div className="footer-nav-contant">
                     <div className="col-md-10  offset-md-1">
                         <div className="row">
-                            <div className="col-md-6 col-sm-12  "></div>
-                            <div className="col-md-6 col-sm-12  text-right">
+                            <div className="col-md-12 col-sm-12  text-right">
                                 <ul>
                                     <li> <a href="#">Copyright Information </a></li>
                                     <li> <a href="#">Terms & Conditions </a> </li>
